@@ -2,6 +2,8 @@
 
 <br/>
 
+[//]: # (The structure of this README.md file is borrowed from `https://github.com/datvuthanh/HybridNets`)
+
 ![Arduino Robot](Videos/Robot.gif)
 
 ## About The Project
