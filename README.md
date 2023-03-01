@@ -34,3 +34,6 @@ Arduino_Robots
 
 ### Simulation in Matlab and Deployment to Arduino
 <img src="Pictures/matlab_sim.jpg" alt="drawing" height="300" width="300"/><img src="Pictures/arduino.jpg" alt="drawing" height="300" width="300"/>
+
+# Contact
+Minghui Ye (yeminghui1@gmail.com)
